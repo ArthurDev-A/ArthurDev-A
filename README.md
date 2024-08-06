@@ -1,6 +1,6 @@
 ### Olá 👋, eu sou Arthur, estudante do IFCE
 - 🔭 Estudo atualmente no Instituto Federal de Educação, Ciência e Tecnologia do Ceará | Campus Fortalza
-- 🌱 Estou estudando atualmente Java, Html, Css e JavaScript
+- 🌱 Estou estudando atualmente SwiftUI, Swift e Sqlite3 com Python.
 
 #
 
